@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "filament/filament": "^2.0",
+        "filament/filament": "^3.0",
         "barryvdh/laravel-dompdf": "^2.0",
         "spatie/simple-excel": "^3"
     },
